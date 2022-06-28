@@ -1,0 +1,31 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	  <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column" >
+   <mj-text mj-class="h1" >IvyWise can help you achieve your personal and academic goals!</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1"><p> <a href="https://www.ivywise.com/ivywise-services-transfer-gap-year-418693/"> Click here </a> to learn about how IvyWise's personalized and comprehensive counseling, tutoring, and research services can guide you through the complex and competitive transfer admissions process.</p>
+   <p> As you’ll see in the information provided, the first step in working with us is the <a href="https://www.ivywise.com/admissions-counseling/initial-consultation/">
+     Initial Consultation</a>. When you're ready to set this up, please reply to this email to schedule a phone call with a member of our friendly enrollment team (or <a href="tel:+12122623500"> call us directly at +1 (212) 262-3500</a>), so that we can learn more about you, make a recommendation for your best-fit <a href="https://www.ivywise.com/about-ivywise/the-ivywise-team/"> counselor</a>, and set up your account in the myIvyWise online portal.</p>
+     
+     <p>We look forward to speaking with you soon!</p>
+
+     </mj-text>
+
+  <mj-image width="250px" height="240px" src="https://aspire.ivywise.com/l/923623/2022-05-30/jwsx6/923623/1653968901ZPmsyzmj/gap_year.png" href="https://www.ivywise.com/ivywise-services-transfer-gap-year-418693/"/>
+  
+  <mj-button css-class="pardot_link" mj-class="button" padding="20px"  href="tel:+12122623500">READ OUR BROCHURE!!</mj-button>
+  </mj-column>
+
+	</mj-section>
+     
+    <mj-include path="./components/social.mjml"  />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

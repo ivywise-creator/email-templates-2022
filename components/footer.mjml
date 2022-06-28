@@ -1,0 +1,25 @@
+
+<mj-section mj-class="footer" background-color="#FFFFFF" padding="0px 20px 0px 20px">
+  <mj-column width="25%">
+    <mj-image css-class="pardotImage" css-class="pardot_image" style="width:65px;display:inline-block " src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7lv/923623/1652352153on4f0edY/2022_ivywise_bottom_leaf.png" alt="d_leaves" />
+  </mj-column>
+  <mj-column width="70%">
+    <mj-text align="right" padding="20px 0px" color="#005243" font-size="12px" line-height="16px"> <a style="color:#56AD33; text-decoration:underline;" href="https://www.ivywise.com/"> IvyWise </a> is the world's premier educational consultancy, providing admissions counseling, tutoring, test preparation, research, and related services to families worldwide since 1998. IvyWise guides and supports students as they <a style="color:#56AD33;" href="https://www.instagram.com/followivywise/">#AspireApplyAchieve</a> their academic and personal goals. <a style="color:#56AD33;" href="https://www.ivywise.com/about-ivywise/ivywise-by-the-numbers/"> 91% of IvyWise students</a> gained admission to one or more of their three, top-choice colleges in 2021.</mj-text>
+  </mj-column>
+  
+  <mj-column width="100%">
+    <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" padding-bottom="20px" /></mj-column>
+
+    <mj-column  width="100%" vertical-align="middle" >
+      <mj-text font-size="12px" font-weight="700" color="#56AD33" line-height="16px">
+        <img src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7kr/923623/1652352091ipbWOcal/2022_ivywise_icon.jpeg" vertical-align="top" align="right" style="width:50px;height:50px; display:inline-block padding:0px" > New York, NY–501 Madison Avenue <br/> Dubai, UAE–Jumeirah Lakes Towers
+      </mj-text>
+    </mj-column>
+			
+</mj-section>
+
+<mj-section background-color="#FFFFFF" padding="0px ">
+	<mj-column width="600px" padding="0px" > 
+    <mj-divider border-width="2px" border-style="solid" border-color="#56AD33"/>
+  </mj-column>
+</mj-section>

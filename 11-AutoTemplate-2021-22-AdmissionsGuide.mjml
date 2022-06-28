@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	 <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column">
+   <mj-text mj-class="h1">Free Download: The IvyWise College Admissions Guide</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1"> 
+
+   Thank you for your interest in <a href="https://www.ivywise.com/">IvyWise!</a> Our 
+   <a href="https://www.ivywise.com/ivywise-college-prep-and-admissions-guide/"> free guide</a> includes the most up-to-date, straightforward, and practical college prep advice..</mj-text>
+
+  <mj-image width="250px" href="https://www.ivywise.com/ivywise-college-prep-and-admissions-guide/" src="https://aspire.ivywise.com/l/923623/2021-09-28/nh1z/923623/1632858191SmUq4du5/Screen_Shot_2021_09_28_at_14.56.34.png"/>
+
+  <mj-text css-class="pardot_basic" mj-class="parag-1" padding-top="20px">
+    Don't forget to also visit our <a href="https://www.ivywise.com/ivywise-knowledgebase/"> IvyWise KnowledgeBase</a>, bookmark our <a href="https://www.ivywise.com/blog/">College Admissions Blog</a>, and tune in to our <a href="https://www.ivywise.com/ivywise-knowledgebase/just-admit-it-podcast/" >Just Admit It! podcast</a> for all the latest college admissions news and advice.
+  </mj-text>
+  <mj-text css-class="pardot_basic" mj-class="parag-1">
+    For personalized guidance with your college admissions goals, 
+    <a style="font-weight: bold" href="https://www.ivywise.com/get-started/" >contact us today</a> to learn more about how our 
+    <a href="https://www.ivywise.com/admissions-counseling/">counseling</a>, <a href="https://www.ivywise.com/tutoring/">tutoring</a>, and 
+    <a href="https://www.ivywise.com/research/">research services</a> can help you achieve your goals!
+  </mj-text>
+  
+  </mj-column>
+
+	</mj-section>
+    
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

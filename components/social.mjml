@@ -1,0 +1,15 @@
+<mj-section mj-class="social" background-color="#EAF5EB">
+  <mj-column width="100%" padding-bottom="20px">
+    <mj-text mj-class="h2"> Want more college admissions news and advice? </br> Check out the <a style="color:#56AD33;" href="https://www.ivywise.com/ivywise-knowledgebase/">IvyWise KnowledgeBase</a> and follow us on social media:</mj-text>
+
+    <mj-social  mode="horizontal" icon-size="32px" inner-padding="7px" mode="horizontal" padding="0px 20px">
+      <mj-social-element src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7gc/923623/1652351981q0N20Ajm/2022_fb.png" href="https://www.facebook.com/ivywise/" target="_blank"> </mj-social-element>
+      <mj-social-element src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7g8/923623/1652351981moVgiCqe/2022_twitter.png" href="https://twitter.com/IvyWise" target="_blank"> </mj-social-element>
+      <mj-social-element src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7fy/923623/1652351981OK8zY31t/2022_ig.png" href="https://www.instagram.com/followivywise/" target="_blank"></mj-social-element>
+      <mj-social-element src="https://storage.pardot.com/923623/1654085507PVkUjAiN/2022_tiktok.png" href="https://www.tiktok.com/@followivywise?is_from_webapp=1&sender_device=pc" target="_blank"> </mj-social-element>
+      <mj-social-element src="https://storage.pardot.com/923623/16540854271aBKQRAU/2022_spotify.png" href="https://open.spotify.com/show/4fM3VNqAW25ODgTyyi4rX9?si=c33c17ed640740c3 " target="_blank"> </mj-social-element>
+      <mj-social-element src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7g5/923623/1652351981IkHRLjJw/2022_whatsapp.png" href="https://wa.me/12122623500" target="_blank"> </mj-social-element>
+      <mj-social-element src="https://aspire.ivywise.com/l/923623/2022-05-12/hg7g2/923623/165235198149rvphYq/2022_wechat.png" href="https://mp.weixin.qq.com/s/rq-DkruummtSn6RYAtxhhg" target="_blank"></mj-social-element>
+    </mj-social>
+      </mj-column>
+</mj-section>

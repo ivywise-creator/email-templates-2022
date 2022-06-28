@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	  <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column" >
+   <mj-text mj-class="h1" >WiseStart™ can help your child achieve their personal and academic goals!</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1"> <p>
+    <a href="https://www.ivywise.com/wisestart-services/"> Click here </a> to learn about <a href="https://www.ivywise.com/admissions-counseling/wisestart/"> WiseStart™ </a> and how our personalized and comprehensive school placement, tutoring, and early college guidance services can help your student reach their personal and academic goals. </p>
+    
+ 
+<p>As you’ll see in the information provided, the first step in working with us is the <a href="https://www.ivywise.com/admissions-counseling/initial-consultation/"> Initial Consultation</a>. 
+    When you're ready to set this up, please reply to this email to schedule a phone call with a member of our friendly enrollment team (or <a href="tel:+12122623500"> call us directly at +1 (212) 262-3500</a>), so that we can learn more about you and set up your account in the myIvyWise online portal. </p>
+     <p> We look forward to speaking with you soon!</p>
+   </mj-text>
+
+    <mj-image  href="https://www.ivywise.com/wisestart-services/"
+    width="250px" src="https://aspire.ivywise.com/l/923623/2022-05-30/jwszd/923623/1653969231fznIU1zG/k_8.png" href="https://www.ivywise.com/ivywise-services-college-and-grad-5377392/"/>
+  	<mj-spacer height="20px" />
+    <mj-button css-class="pardot_link" mj-class="button" href="tel:+12122623500" >CALL US TODAY!</mj-button>
+  </mj-column>
+
+	</mj-section>
+     
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

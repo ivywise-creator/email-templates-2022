@@ -1,0 +1,81 @@
+<mj-section padding="20px" background-color="#FFF">
+
+    <mj-column width="100%" padding="0px" background-color="#EAF5EB">
+      <mj-table padding="0px" border="solid 1px #EAF5EB">
+        <tr>
+
+          <td  class="notimg" css-class="pardotImage" css-class="pardot_image"  style="background-color:#EAF5EB; background-image: url(https://i.imgur.com/srCibPp.png); background-repeat: no-repeat; background-position: center; background-size: cover; width: 120px; padding: 20px" align="center" valign="center"></td>
+
+          <td style="padding: 20px">
+          	<h2 css-class="pardot_simple" style="font-size: 20px; font-weight:700; color:#56AD33"><a  style: "color:#56AD33"  href="https://ivywise.pardot.com/prospect/contact ">Highlight Webinar 1</h2></a>
+            <h4 css-class="pardot_simple" style="font-size: 16px; font-weight:700; color:#005243"> Webinar Day, Date, Time ET</h4>
+            <p css-class="pardot_simple" style="font-size:16px; color:#005243">Loris asdasdLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</p> 
+            <!-- botao html mail - feito em table  -->
+           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:203px;line-height:100%;"><tbody><tr><td align="center" bgcolor="#56AD33" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#56AD33;" valign="middle"><a href="https://ivywise.pardot.com/prospect/contact" style="display:inline-block;width:203px;background:#56AD33;color:#ffffff;font-family:poppins, helvetica;font-size:16px;font-weight:700;line-height:22px;margin:0;text-decoration:none;text-transform:none;padding:10px 5px;mso-padding-alt:0px;border-radius:3px;" target="_blank" pardot-region="link" pardot-region-type="Link">REGISTER HERE</a></td></tr></tbody></table>
+           
+          </td>
+  
+      
+        </tr>
+        
+      </mj-table>
+    </mj-column>
+</mj-section>
+
+
+<mj-section padding="20px" background-color="#FFFFFF">
+    <mj-column width="100%" padding="0px">
+      <mj-table padding="0px" border="solid 2px #EAF5EB">
+        <tr>
+        	<td  style="padding: 20px">
+          	<h2 css-class="pardot_simple" style="font-size: 20px; font-weight:700; color:#56AD33"><a  style: "color:#56AD33"  href="https://ivywise.pardot.com/prospect/contact ">Highlight Webinar 2</h2></a>
+            <h4 css-class="pardot_simple" style="font-size: 16px; font-weight:700; color:#005243"> Webinar Day, Date, Time ET</h4>
+            <p style="font-size:16px; color:#005243">Loris asdasdLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</p>
+            <!-- botao html mail - feito em table  -->
+           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:203px;line-height:100%;"><tbody><tr><td align="center" bgcolor="#56AD33" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#56AD33;" valign="middle"><a href="https://ivywise.pardot.com/prospect/contact" style="display:inline-block;width:203px;background:#56AD33;color:#ffffff;font-family:poppins, helvetica;font-size:16px;font-weight:700;line-height:22px;margin:0;text-decoration:none;text-transform:none;padding:10px 5px;mso-padding-alt:0px;border-radius:3px;" target="_blank" pardot-region="link" pardot-region-type="Link">REGISTER HERE</a></td></tr></tbody></table>
+          </td>
+          <td  class="notimg" style="background-color:#EAF5EB; background-image: url(https://i.imgur.com/JpwrWel.png); background-repeat: no-repeat; background-position: center; width: 120px; padding: 20px" align="center" valign="center"></td>
+        </tr>
+      </mj-table>
+    </mj-column>
+</mj-section>
+
+
+
+
+<mj-section padding="20px" background-color="#FFFFFF" >
+    <mj-column width="100%" padding="0px">
+      <mj-table padding="0px" border="solid 2px #EAF5EB">
+        <tr>
+
+        <td class="notimg" css-class="pardotImage" css-class="pardot_image"  style="background-color:#EAF5EB; background-image: url(https://i.imgur.com/DkbBbjs.png); background-repeat: no-repeat; background-position: center; width: 120px; padding: 20px" align="center" valign="center"></td>
+
+        	<td style="padding: 20px">
+          	<h2 style="font-size: 20px; font-weight:700; color:#56AD33"><a  style: "color:#56AD33"  href="https://ivywise.pardot.com/prospect/contact ">Podcast Episode 3 </a></h2>
+          
+            <p style="font-size:16px; color:#005243">Loris asdasdLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</p>
+           <!-- botao html mail - feito em table  -->
+           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:203px;line-height:100%;"><tbody><tr><td align="center" bgcolor="#56AD33" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#56AD33;" valign="middle"><a href="https://ivywise.pardot.com/prospect/contact" style="display:inline-block;width:203px;background:#56AD33;color:#ffffff;font-family:poppins, helvetica, sans-serif;font-size:16px;font-weight:700;line-height:22px;margin:0;text-decoration:none;text-transform:none;padding:10px 5px;mso-padding-alt:0px;border-radius:3px;" target="_blank" pardot-region="link" pardot-region-type="Link">LISTEN NOW</a></td></tr></tbody></table>
+          </td>
+          
+        </tr>
+      </mj-table>
+    </mj-column>
+</mj-section>
+
+
+<mj-section padding="20px" background-color="#FFFFFF" >
+    <mj-column width="100%" padding="0px">
+      <mj-table padding="0px" border="solid 2px #EAF5EB">
+        <tr>
+        	<td style="padding: 20px">
+          	<h2 style="font-size: 20px; font-weight:700; color:#56AD33"><a  style: "color:#56AD33"  href="https://ivywise.pardot.com/prospect/contact ">Recent Media Placement,</a></h2>
+            <p style="font-size:16px; color:#005243">Loris asdasdLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</p>
+            <!-- botao html mail - feito em table  -->
+           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:203px;line-height:100%;"><tbody><tr><td align="center" bgcolor="#56AD33" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#56AD33;" valign="middle"><a href="https://ivywise.pardot.com/prospect/contact" style="display:inline-block;width:203px;background:#56AD33;color:#ffffff;font-family:poppins;font-size:16px;font-weight:700;line-height:22px;margin:0;text-decoration:none;text-transform:none;padding:10px 5px;mso-padding-alt:0px;border-radius:3px;" target="_blank" pardot-region="link" pardot-region-type="Link">READ MORE</a></td></tr></tbody></table>
+          </td>
+          <td class="notimg"  css-class="pardotImage" css-class="pardot_image"  style="background-color:#EAF5EB; background-image: url(https://i.imgur.com/S2YrMIG.png); background-repeat: no-repeat; background-position: center; width: 120px; padding: 20px" align="center" valign="center"></td>
+        </tr>
+      </mj-table>
+    </mj-column>
+</mj-section>

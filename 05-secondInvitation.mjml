@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	 <mj-section mj-class="general-section">
+    <mj-column width="100%">
+      <mj-image css-class="pardotImage" css-class="pardot_image" padding="20px" src="https://aspire.ivywise.com/l/923623/2022-06-21/ljj3b/923623/1655856678bBc07s1T/2022_invitation.png" width="50px" />
+
+        <mj-text mj-class="h1">IvyWise Live Webinar</mj-text>
+        <mj-include path="./components/webinarData.mjml"/>
+
+        <mj-text css-class="pardot_basic" mj-class="parag-1"> 
+         This is a friendly reminder about <a css-class="pardotLink" href="{{EmailPreferenceCenter}}" rel="noopener">[tomorrow's IvyWise Live webinar] <a/> with college admissions counselors <a css-class="pardotLink" href="{{EmailPreferenceCenter}}" rel="noopener">[Insert counsellor name] </a> and <a css-class="pardotLink" href="{{EmailPreferenceCenter}}" rel="noopener">[Insert counsellor name]</a>. Don't miss this opportunity to learn about [insert webinar topic/description, e.g., how students can make the most of their virtual campus tours to get an informed view of an institution, stand out to admissions officers, and build a balanced college list of target, reach, and likely schools.] There will be a Q&A session following their presentation, allowing attendees to have their questions answered directly by <a css-class="pardotLink"  href="{{EmailPreferenceCenter}}" rel="noopener">IvyWise experts</a>.
+        </mj-text>
+    </mj-column>
+    
+        <mj-column width="100%">
+          <mj-spacer height="20px"></mj-spacer>
+          <mj-text  css-class="pardot_basic" mj-class="p3" align="center" font-size="16px">
+        Please feel free to share these details with any friends who might also wish to tune in.
+      </mj-text>
+   </mj-column>
+	</mj-section>
+    <mj-include path="./components/invitation.mjml" />
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

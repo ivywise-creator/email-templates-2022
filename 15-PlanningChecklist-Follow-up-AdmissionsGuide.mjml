@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+	<mj-section mj-class="general-section">
+   <mj-column mj-class="general-column" >
+   <mj-text mj-class="h1" >Free Download: The IvyWise College Planning Checklist</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1" align="justify">We noticed you recently downloaded our free College Admissions Guide, so we wanted to follow up with additional college prep resources! We hope you've had time to go through the guide over the last few days and that you found it to be helpful and informative. Are you ready for another free download? Check out the <a href="https://www.ivywise.com/ivywise-college-checklist-47363784/" >IvyWise College Planning Checklist</a> for more advice on how students can get on track with their college prep, including important information on:
+   
+   <ul> 
+   <li>  When to take standardized tests </li>
+   <li>  How to research colleges to build your balanced college list</li>
+   <li>  When to go on campus tours </li>
+   <li>  When to start brainstorming your personal statement and supplemental college application essays </li>
+   <li>  How to stay organized during the process </li>
+    ...and much, much more!
+   </ul>
+   
+   </mj-text>
+
+  <mj-image width="250px" height="240px" href="https://www.ivywise.com/ivywise-college-checklist-47363784/" 
+  src="https://aspire.ivywise.com/l/923623/2021-09-28/ngzz/923623/1632858002TuMQaDdC/Screen_Shot_2021_09_28_at_14.56.57.png"/>
+
+  <mj-text css-class="pardot_basic" mj-class="paragraph" align="left" color="#005243" font-size="16px" line-height="22px" padding-top="20px">
+
+    Don't forget to also visit our 
+    <a href="https://www.ivywise.com/ivywise-knowledgebase/"> IvyWise KnowledgeBase</a>, bookmark our 
+    <a href="https://www.ivywise.com/blog/">College Admissions Blog</a>, and tune in to our 
+    <ahref="https://www.ivywise.com/ivywise-knowledgebase/just-admit-it-podcast/" >Just Admit It! podcast</a> for all the latest college admissions news and advice. <br>  </mj-text>
+   <mj-text css-class="pardot_basic" mj-class="paragraph" align="center" color="#005243" font-size="16px" line-height="22px" padding-top="20px">
+    As a reminder, please 
+    <a style="color:#56AD33; font-weight: bold; text-decoration:underline" href="https://www.ivywise.com/get-started/" >contact us today</a> to learn more about how our 
+    <a href="https://www.ivywise.com/admissions-counseling/">counseling</a>, <a href="https://www.ivywise.com/tutoring/">tutoring</a>, and 
+    <a href="https://www.ivywise.com/research/">research services</a> can help you achieve your goals!
+  </mj-text>
+  
+  </mj-column>
+
+
+	</mj-section>
+        <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

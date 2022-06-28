@@ -1,0 +1,39 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+ <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column" >
+    <mj-image css-class="pardotImage" css-class="pardot_image" padding="20px 0px " src="https://aspire.ivywise.com/l/923623/2022-06-21/ljj3b/923623/1655856678bBc07s1T/2022_invitation.png" width="50px" />
+
+    <mj-text mj-class="h1">You're invited!</mj-text>
+     <mj-include path="./components/webinarInvite.mjml"/>
+
+    <mj-text css-class="pardot_basic" mj-class="parag-1"> 
+    <p> [Insert webinar topic intro, e.g., Spring break has traditionally been a popular time for high school students to visit college campuses, but with many colleges still offering only virtual visits, the exciting moment when a student visits their dream campus in person and gets that “gut check” has now been limited to yet another screen this spring, making it even harder for students to confidently build their balanced college lists.]</p>
+      
+    <p> You're invited to join IvyWise college admissions counselors [counsellor name] and [counsellor name] as they share their insights on [insert webinar description, e.g., how students can make the most of their virtual campus tours to get an informed view of an institution, stand out to admissions officers, and build a balanced college list of target, reach, and likely schools.] There will be a Q&A session following their presentation, allowing attendees to have their questions answered directly by IvyWise experts.</p></mj-text>
+
+    <mj-button css-class="pardot-button"  mj-class="button"
+     target="_blank" href="https://ivywise.pardot.com/prospect/contact"> CLICK HERE TO REGISTER FOR THE WEBINAR</mj-button> 
+    <mj-text  css-class="pardot_basic" mj-class="p4" color="#56AD33" align="center" > 
+    <p> We will provide all registrants with a link to the recording of the webinar after the event!</p>
+    </mj-text>
+    <mj-text  css-class="pardot_basic" mj-class="parag-1" align="center" padding="20px">
+      Please feel free to share these details with any friends who might also wish to tune in.
+    </mj-text>
+      
+    </mj-column>
+	</mj-section>
+
+
+		<mj-include path="./components/invitation.mjml" />
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

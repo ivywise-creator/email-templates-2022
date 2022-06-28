@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+<mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	<mj-section mj-class="general-section">
+   <mj-column mj-class="general-column">
+   <mj-text mj-class="h1">IvyWise can help you achieve your personal and academic goals!</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1" align="center"> Click here to learn about how IvyWise's personalized and comprehensive counseling, tutoring, and research services can guide your family through the complex and competitive college admissions process. <br> 
+   </mj-text> 
+   <mj-text css-class="pardot_basic" mj-class="parag-1" align="center"> 
+   As you’ll see in the information provided, the first step in working with us is the Initial Consultation. When you're ready to set this up, please reply to this email to schedule a phone call with a member of our friendly enrollment team (or call us directly at +1 (212) 262-3500), so that we can learn more about you, make a recommendation for your best-fit counselor, and set up your account in the myIvyWise online portal.</mj-text>
+
+  <mj-image width="250px" height="240px" src="https://i.imgur.com/31HsCly.png"/>
+  
+  <mj-button mj-class="button" target="_blank" href="https://www.ivywise.com/">READ OUR BROCHURE!</mj-button>
+  </mj-column>
+	</mj-section>
+      
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

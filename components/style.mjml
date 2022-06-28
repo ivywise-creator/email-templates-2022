@@ -1,0 +1,107 @@
+
+<mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" />
+
+<mj-html-attributes>
+    <mj-selector path=".pardot_simple div">
+      <mj-html-attribute name="pardot-region">simple</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">simple</mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot-simple-on-tag">
+      <mj-html-attribute name="pardot-region">simple</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">simple</mj-html-attribute>
+    </mj-selector>
+  <mj-selector path=".pardot_image img">
+    	<mj-html-attribute name="pardot-region">Image</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">Image</mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot_basic">
+      <mj-html-attribute name="pardot-region">basic</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">Basic</mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot_link a">
+      <mj-html-attribute name="pardot-region">link</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">Link</mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot-button a">
+      <mj-html-attribute name="pardot-region">link</mj-html-attribute>
+      <mj-html-attribute name="pardot-region-type">Link</mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot_repeatable > table > tbody > tr > td > table > tbody > tr">
+      <mj-html-attribute name="pardot-repeatable"></mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot_repeatable_newsletter > table > tbody > tr">
+      <mj-html-attribute name="pardot-repeatable"></mj-html-attribute>
+    </mj-selector>
+    <mj-selector path=".pardot-repeatable-toplevel">
+      <mj-html-attribute name="pardot-repeatable"></mj-html-attribute>
+    </mj-selector>
+
+
+</mj-html-attributes>
+
+<mj-attributes>
+
+ 
+  <mj-all font-family="Poppins, Helvetica, sans-serif" width="100%" padding="0px" />
+
+  <mj-class name="body" background-color="#E6F1F9" width="600px"/>
+
+  <mj-class name="general-section" background-color="#FFFFFF" padding="20px"/>
+
+  <mj-class name="general-column" width="100%" pad-ding="20px"/>
+
+  <mj-class name="head" padding-top="98px" inner-padding="0px" background-color="#E6F1F9" />
+
+  <mj-class name="h1" align="center" padding="20px" font-size="30px" font-weight="700" line-height="41px" color="#F9AF00" />
+
+  <mj-class name="h1-reverse" align="center" padding="0, 20px" font-size="30px" font-weight="700" line-height="41px" background-color="#F9AF00" color="#FFFFFF" />
+
+  <mj-class name="h2" padding="20px" line-height="22px" font-size="16px" font-weight="700" color="#56AD33" align="center"/>
+  
+  <mj-class name="parag-1" color="#005243" align="left" font-weight="400, regular" font-size="16px" line-height="22px" padding-bottom="20px" line-height= "22px"/>
+
+  <mj-class name="parag-1-bold" color="#005243" align="left" font-weight="700, bold" font-size="16px" line-height="22px" padding="20px" align="justify"line-height= "22px" />
+
+  <mj-class name="h3" color="#005243" align="left" padding-top="10px" font-weight="bold" font-size="16px" line-height="22px" line-height= "22px"/>
+
+  <mj-class name="parag-2" font-size="10px" font-weight="400px" align="center" vertical-align="middle" color="#000000" line-height= "22px"/>
+
+  <mj-class name="parag-3" font-size="16px" font-weight="400px" line-height= "22px" align="center" color="#000000" />
+
+  <mj-class name="parag-4" font-size="12px" font-weight="400px" line-height="22px" align="center" color="#56AD33" line-height= "22px"/>
+  
+  <mj-class name="button" align="center" line-height="22px" border-radius="5px" background-color="#56AD33" font-family="poppins" font-weight="700" font-size="16px" width="100%" padding-bottom="20px" line-height= "22px"/>
+
+  <mj-class name="button2" line-height="22px" border-radius="5px" background-color="#56AD33" font-family="poppins" font-weight="700" font-size="16px" width="203px" padding-bottom="20px" align="left" padding-top="20px" line-height= "22px" />
+
+  <mj-class name="btn2" border-radius="5px" width="155px" font-weight="bold" font-size="16px" line-height= "22px" />
+
+  <mj-class name="text" font-size="12px" color="#005243" font-weight="400, regular"  line-height= "22px"/>
+
+  <mj-class name="text2" align="left" font-size="20px" font-weight="700" line-height="22px" color="#56AD33" line-height= "22px"/>
+
+  <mj-class name="social" background-color="#EAF5EB" width="100%" />
+
+  <mj-class name="footer" font-size="12px" font-weight="400" line-height="16px" />
+
+  <mj-class name="final_note" padding="30px" font-size="10px" font-weight="400px, regular" color="#000000" />
+
+</mj-attributes>
+
+<mj-style>
+  @media only screen and (max-width: 700px) {
+    .notimg {
+      display: none;
+    }	
+  }
+</mj-style>
+
+<mj-style inline="inline">
+  a {
+    color:#56AD33; 
+    text-decoration:underline;
+  }
+</mj-style>
+
+
+  

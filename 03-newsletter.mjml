@@ -1,0 +1,132 @@
+<mjml>
+  <mj-head>
+   
+  <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-include path="./components/header.mjml" />
+    <mj-hero  mode="fixed-height"
+      background-width="600px"
+      background-height="120px"
+      background-url="https://aspire.ivywise.com/l/923623/2022-06-01/k28pw/923623/1654085642yzojLmH3/header2.jpg"
+      background-color="#E6F1F9"
+      padding= "240px 20px 0 20px">
+
+            <mj-raw> 
+        <div style="background-color:#F9AF00;padding: 10px;display: block;"> 
+        
+        <h1 style="text-align: center;padding: 10px; font-weight:bold;color: #FFFFFF; font-size:30px; line-height:40px;display: block;padding: 0;margin: 0; font-family: Poppins, Helvetica, sans-serif;">College Admissions Newsleter </h1> </div>
+      </mj-raw>
+      
+<!--       <mj-text padding="120px 0px"></mj-text>  -->
+   
+     <!-- <mj-button mj-class="h1-reverse" width="95%" background-color="#F9AF00" padding="0px"> College Admissions Newsletter </mj-button> -->
+     </mj-hero>
+    <!--      <mj-include path="./components/newsletterComponent.mjml" />-->
+
+     <!-- componente: inicio -->
+     <mj-section mj-class="general-section" css-class="pardot_repeatable_newsletter">
+
+<mj-column  mj-class="general-column"  >
+    <mj-image src="https://i.imgur.com/mqMFmMs.jpeg"  width="560px" href="https://www.ivywise.com/" css-class="pardot_image" padding-bottom="20px" fluid-on-mobile="true" />
+  <mj-text mj-class="text2" css-class="pardot_link"> <a href="https://www.ivywise.com/"> Article Title 1 </a>
+  </mj-text>
+  <mj-text mj-class="h3" css-class="pardot_simple"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px"  css-class="pardot_simple"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehiclia gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardot_link" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+  </mj-section>
+<!-- componente: fim -->
+     <!-- componente: inicio -->
+     <mj-section mj-class="general-section" css-class="pardot_repeatable_newsletter">
+
+<mj-column  mj-class="general-column"  >
+    <mj-image src="https://i.imgur.com/mqMFmMs.jpeg"  width="560px" href="https://www.ivywise.com/" css-class="pardot_image" padding-bottom="20px" fluid-on-mobile="true" />
+  <mj-text mj-class="text2" css-class="pardot_link"> <a href="https://www.ivywise.com/"> Article Title 1 </a>
+  </mj-text>
+  <mj-text mj-class="h3" css-class="pardot_simple"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px"  css-class="pardot_simple"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehiclia gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardot_link" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+  </mj-section>
+<!-- componente: fim -->
+
+<!-- INICIO RECENT BLOG POST -->  
+  <mj-section background-color="#ffffff">
+<mj-column width="100%" padding="0px">
+  <mj-divider border-width="2px" border-style="solid" border-color="#56AD33" />
+</mj-column>
+<mj-column width="50%" padding="20px">
+  <mj-text align="left" line-height="27px" font-size="20px" font-weight="700" color="#56AD33" css-class="pardot_link" > <a style="color:#56AD33; 
+    text-decoration: none," href="https://www.ivywise.com/">Recent Blog Post 1</a></mj-text>
+  <mj-text line-height="22px" color="#005243" font-size="16px" padding-top="10px" css-class="pardot_simple"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</mj-text>
+</mj-column>
+<mj-column width="50%" padding="20px">
+  <mj-text align="left" line-height="27px" font-size="20px" font-weight="700" color="#56AD33" text-decoration="none" css-class="pardot_link" > <a style="color:#56AD33; 
+    text-decoration: none," href="https://www.ivywise.com/">Recent Blog Post 2</a> </mj-text>
+  <mj-text line-height="22px" color="#005243" font-size="16px" padding-top="10px" css-class="pardot_simple"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit.</mj-text>
+</mj-column>
+    
+    <mj-column width="100%" padding="0px">
+  <mj-divider border-width="2px" border-style="solid" border-color="#56AD33" />
+</mj-column>
+</mj-section>
+  
+  
+  
+<!-- INICIO RECENT BLOG POST -->
+  <mj-section mj-class="general-section">
+<mj-column width="100%" align="center">
+  <mj-text mj-class="text2"> Coming Up: </mj-text>
+      <mj-spacer height="20px" />
+  <mj-text mj-class="text">  <ul>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>  </ul>
+  </mj-text>
+        <mj-spacer height="20px" />
+	<mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+<mj-column width="100%">
+        <mj-spacer height="20px" />
+  <mj-text mj-class="text2">ICYMI</mj-text>   
+        <mj-spacer height="20px" />
+</mj-column>
+  <mj-column width="50%" align="center">
+  <mj-text mj-class="text" css-class="pardot_basic">
+  <ul>
+    <li> <a href="#"> 8 links to the previous month’s Newsletter articles, recent blog posts, recent podcast episodes and recent webinars </a></li>
+    <li> <a href="#" >  recent webinars </a></li>   
+    <li> <a href="#">  Newsletter articles </a></li>   
+    <li> <a href="#"> 8 links </a></li></ul>
+  </mj-text>
+    
+</mj-column>
+
+</mj-column>
+  <mj-column width="50%" padding="0 20px" align="center">
+  <mj-text mj-class="text" css-class="pardot_basic">
+  <ul>
+    <li> <a href="#"> 8 links to the previous month’s Newsletter articles, recent blog posts, recent podcast episodes and recent webinars </a></li>
+    <li> <a href="#" >  recent webinars </a></li>   
+    <li> <a href="#">  Newsletter articles </a></li>   
+    <li> <a href="#"> 8 links </a></li></ul>
+  </mj-text>
+    <mj-spacer height="20px" />
+</mj-column>
+  </mj-section>
+      <mj-include path="./components/social.mjml" />
+      <mj-include path="./components/footer.mjml" />
+      <mj-include path="./components/finalNote.mjml" />
+   </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,5 @@
+<mj-section  background-color="#E6F1F9">
+  <mj-column padding="0px 20px">
+    <mj-text css-class="pardot_simple"  align="center" line-height="14px" font-size="10px"> <p> You received this email because you are subscribed to IvyWise Services. We'd really appreciate it if you'd add us to your safe-sender list so that we can keep sending you college admissions news and advice as well as information about our educational services. If you'd like to update your subscription preferences, <a css-class="pardotLink" style="color:#56AD33;" href="{{EmailPreferenceCenter}}" rel="noopener">please click here.</a></p></mj-text>
+  </mj-column>
+</mj-section>

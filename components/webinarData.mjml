@@ -1,0 +1,15 @@
+
+  <mj-column width="100%" background-color="#EAF5EB" padding="20px" css-class="pardot_basic">
+
+  <mj-text font-family="poppins" font-size="16px" font-weight="400px" line-height="24px" color="#005243">
+    <p> Topic: [Insert topic name here, can be long] <br>
+    Date: [Insert day, date] <br>
+    Time: [Insert time] </p>
+  </mj-text>
+
+  <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button" background-color="#56AD33" font-weight="700" line-height="22px" target="_blank" href='https://ivywise.pardot.com/prospect/contact'> CLICK HERE TO REGISTER FOR THE WEBINAR</mj-button> 
+      <mj-text  css-class="pardot_basic" mj-class="p4" color="#56AD33" align="center" padding="0px"> 
+      <p> We will provide all registrants with a link to the recording of the webinar after the event!</p>
+      </mj-text>
+  </mj-column>
+    

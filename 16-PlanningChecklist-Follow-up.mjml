@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	  <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column" >
+   <mj-text mj-class="h1" >Free Download: The IvyWise College Admissions Guide</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1" align="justify">
+   We noticed you recently downloaded our free College Planning Checklist, so we wanted to follow up with additional college prep resources! We hope you've had time to go through the checklist over the last few days and that you found it to be helpful and informative. Are you ready for another free download? Check out the 
+   <a href="https://www.ivywise.com/ivywise-college-prep-and-admissions-guide/" >IvyWise College Admissions Guide</a> for more advice on how students can get on track with their college prep, including important information on:
+    
+   <ul> 
+   <li>  Grades, test scores, college visits, extracurricular activities, and summer initiatives </li>
+   <li>  How to stay organized during the college prep process </li>
+   <li>  Test-optional admissions policies </li>
+    ...and much, much more!
+   </ul>
+   
+   </mj-text>
+
+  <mj-image width="250px" height="240px" href="https://www.ivywise.com/ivywise-college-prep-and-admissions-guide/" 
+  src="https://aspire.ivywise.com/l/923623/2021-09-28/nh1z/923623/1632858191SmUq4du5/Screen_Shot_2021_09_28_at_14.56.34.png"/>
+
+  <mj-text css-class="pardot_basic" mj-class="parag-1"> <br>
+
+    Don't forget to also visit our 
+    <a href="https://www.ivywise.com/ivywise-knowledgebase/"> IvyWise KnowledgeBase</a>, bookmark our 
+    <a href="https://www.ivywise.com/blog/">College Admissions Blog</a>, and tune in to our 
+    <a href="https://www.ivywise.com/ivywise-knowledgebase/just-admit-it-podcast/" >Just Admit It! podcast</a> for all the latest college admissions news and advice. <br>  </mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1">
+    As a reminder, please 
+    <a style='font-weight:bold'; href="https://www.ivywise.com/get-started/">contact us today</a> to learn more about how our 
+    <a href="https://www.ivywise.com/admissions-counseling/">counseling</a>, <a href="https://www.ivywise.com/tutoring/">tutoring</a>, and 
+    <a href="https://www.ivywise.com/research/">research services</a> can help you achieve your goals!
+  </mj-text>
+  
+  </mj-column>
+   
+	</mj-section>
+       <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

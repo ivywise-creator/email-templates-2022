@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	  <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column">
+   <mj-text mj-class="h1">Help us help you!</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1" align="center"> At 
+    <a href="https://www.ivywise.com/"> IvyWise</a>,
+     it is our mission to provide students, families, and fellow educators <a href="https://www.ivywise.com/ivywise-knowledgebase/"> with the latest admissions news and advice </a>, as well as information on our <a href="https://www.ivywise.com/admissions-counseling/" > counseling</a>, <a  href="https://www.ivywise.com/tutoring/">tutoring</a>, and <a  href="https://www.ivywise.com/research/"> research services</a> that can help students achieve their personal and academic goals. The admissions landscape is constantly evolving, so we want to make sure that we are sending you communications that are relevant to you. <a  href="https://aspire.ivywise.com/l/923623/2022-04-04/dqj7h"> Please take a moment to update your profile </a> so that we're not sending you advice on elementary schools when you're preparing for the grad school admissions process!
+    <br> 
+   </mj-text>
+   
+   <mj-button css-class="pardot_link" mj-class="button" background-color="#F9AF00" padding="20px" width="300px" href="https://www.ivywise.com/" >UPDATE PROFILE </mj-button>
+   
+   <mj-image width="300px" src="https://aspire.ivywise.com/l/923623/2022-04-05/dtpgz/923623/1649193186caTJZD4w/IvyWise_Update_Profile.png" alt="Update Profile" href="https://aspire.ivywise.com/l/923623/2022-04-04/dqj7h"/>
+
+
+   <mj-button css-class="pardot_link" mj-class="button" width="300px" padding="20px"  href="https://www.ivywise.com/" >LEARN MORE ABOUT IVYWISE</mj-button>
+  </mj-column>
+
+
+	</mj-section>
+          <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

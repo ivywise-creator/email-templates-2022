@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+  
+  <mj-include path="./components/header.mjml" />
+		
+	 <mj-section mj-class="general-section">
+   <mj-column mj-class="general-column">
+   <mj-text mj-class="h1">Free Download: The IvyWise Admissions Guide for International Students</mj-text>
+   <mj-text css-class="pardot_basic" mj-class="parag-1" >
+   Thank you for your interest in 
+   <a href="https://www.ivywise.com/">IvyWise!</a> Our 
+   <a href="https://www.ivywise.com/ivywise-international-guide-4838374/"> free guide</a> includes the most up-to-date, straightforward and practical college prep advice for international students who are interested in applying to U.S. universities.</mj-text>
+
+  <mj-image width="250px" padding-bottom="20px" href="https://www.ivywise.com/ivywise-international-guide-4838374/" src="https://aspire.ivywise.com/l/923623/2021-09-28/ngyn/923623/1632857032jW3t3khK/Screen_Shot_2021_09_28_at_14.56.44.png"/>
+
+  <mj-text css-class="pardot_basic " mj-class="parag-1">
+    Don't forget to also visit our <a href="https://www.ivywise.com/ivywise-knowledgebase/"> IvyWise KnowledgeBase</a>, bookmark our <a href="https://www.ivywise.com/blog/">College Admissions Blog</a>, and tune in to our <a href="https://www.ivywise.com/ivywise-knowledgebase/just-admit-it-podcast/" >Just Admit It! podcast</a> for all the latest college admissions news and advice. <br>
+  </mj-text>
+  <mj-text css-class="pardot_basic"  mj-class="parag-1">
+    For personalized guidance with your college admissions goals, <a style="color:#56AD33; font-weight: bold; text-decoration:underline" href="https://www.ivywise.com/get-started/" >contact us today</a> to learn more about how our <a style="color:#56AD33; text-decoration:underline" href="https://www.ivywise.com/admissions-counseling/">counseling</a>, <a style="color:#56AD33; text-decoration:underline" href="https://www.ivywise.com/tutoring/">tutoring</a>, and  <a style="color:#56AD33; text-decoration:underline" href="https://www.ivywise.com/research/">research services</a> can help you achieve your goals!
+  </mj-text>
+  
+  </mj-column>
+
+   
+	</mj-section>
+      <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

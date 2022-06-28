@@ -1,0 +1,24 @@
+<mj-section mj-class="general-section">
+  
+    <mj-column width="50%" padding-bottom="20px">  
+    <mj-image css-class="pardotImage" css-class="pardot_image" padding="0px" align="center" border-radius="50%" width="200px" height="200px" src="https://tse2.mm.bing.net/th?id=OIP.f0V7rYdd_1pDR2oKuJy-swHaHa&pid=Api"  />
+
+    <mj-text  css-class="pardot_basic" align="center" line-height="27px" font-size="16px" font-weight="700" color="#56AD33" > Counsellor Name </mj-text>
+
+    <mj-text css-class="pardot_basic" line-height="22px" font-size="16px" align="center" padding-bottom="20px"> Consellor byline</mj-text>
+    </mj-column>
+
+    <mj-column width="50%">  
+    <mj-image css-class="pardotImage" css-class="pardot_image" padding="0px"  width="200px" height="200px" 
+    src="https://tse2.mm.bing.net/th?id=OIP.e2WhLRzlTDQe8zmvWOF1rAHaHa&pid=Api" align="center" border-radius="50%" />
+
+    <mj-text  css-class="pardot_basic" align="center" line-height="27px" font-size="16px" font-weight="700" color="#56AD33" > Counsellor Name </mj-text>
+
+    <mj-text css-class="pardot_basic" line-height="22px" font-size="16px" align="center" padding-bottom="20px"> Consellor byline</mj-text>
+    </mj-column>
+
+    <mj-column width="100%"> 
+    <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button" background-color="#56AD33" font-weight="700" line-height="22px" width="100%" align="center" target="_blank" href='https://ivywise.pardot.com/prospect/contact'> REGISTER NOW </mj-button>
+    </mj-column>
+
+</mj-section>

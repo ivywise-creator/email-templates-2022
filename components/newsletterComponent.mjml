@@ -1,0 +1,107 @@
+<!-- componente: inicio -->
+<mj-column mj-class="general-column">
+  <mj-image css-class="pardotImage" css-class="pardot_image" src="https://i.imgur.com/mqMFmMs.jpeg" width="400px" href="https://www.ivywise.com/" />
+</mj-column>
+<mj-column  mj-class="general-column" padding="20px">
+  
+  <mj-text mj-class="text2"> <a href="https://www.ivywise.com/"> Article Title 1 </a>
+  </mj-text>
+  <mj-text mj-class="h3"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px" > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehiclia gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+<!-- componente: fim -->
+
+<!-- componente: inicio -->
+<mj-column mj-class="general-column">
+  <mj-image css-class="pardotImage" css-class="pardot_image" src="https://i.imgur.com/mqMFmMs.jpeg" width="400px" href="https://www.ivywise.com/" />
+</mj-column>
+<mj-column  mj-class="general-column" padding="20px">
+  
+  <mj-text mj-class="text2"> <a href="https://www.ivywise.com/"> Article Title 2 </a>
+  </mj-text>
+  <mj-text mj-class="h3"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px" > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+<!-- componente: fim -->
+
+<!-- componente: inicio -->
+<mj-column mj-class="general-column">
+  <mj-image css-class="pardotImage" css-class="pardot_image" src="https://i.imgur.com/mqMFmMs.jpeg" width="400px" href="https://www.ivywise.com/" />
+</mj-column>
+<mj-column  mj-class="general-column" padding="20px">
+  
+  <mj-text mj-class="text2"> <a href="https://www.ivywise.com/"> Article Title 3</a>
+  </mj-text>
+  <mj-text mj-class="h3"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px" > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+<!-- componente: fim -->
+
+<!-- componente: inicio -->
+<mj-column mj-class="general-column">
+  <mj-image css-class="pardotImage" css-class="pardot_image" src="https://i.imgur.com/mqMFmMs.jpeg" width="400px" href="https://www.ivywise.com/" />
+</mj-column>
+<mj-column  mj-class="general-column" padding="20px">
+  
+  <mj-text mj-class="text2"> <a href="https://www.ivywise.com/"> Article Title 4 </a>
+  </mj-text>
+  <mj-text mj-class="h3"> By [Name], IvyWise [level] Counselor </mj-text>
+
+  <mj-text line-height="22px" color="#005243" padding-top="10px" font-size="16px" > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, magna eget vehicula gravida, orci leo aliquet ligula, at scelerisque dui purus vel velit. <br></mj-text>
+
+  <mj-button css-class="pardotButtom"  css-class="pardotLink" mj-class="button2" href="https://www.ivywise.com/"> READ MORE</mj-button>
+
+  <mj-divider border-width="2px" border-style="solid" border-color="#EAF5EB" />
+</mj-column>
+<!-- componente: fim -->
+
+
+<!-- INICIO RECENT BLOG POST -->
+<mj-column width="100%" padding="20px" align="center">
+  <mj-text mj-class="text2"> Coming Up: </mj-text>
+  <mj-text mj-class="text" css-class="pardotLink">  <ul>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>
+  <li> <a href=""> This webinar is comming up </a></li>  </ul>
+  </mj-text>
+</mj-column>
+
+<mj-column width="100%" padding="20px">
+  <mj-text mj-class="text2">ICYMI</mj-text>     
+</mj-column>
+  <mj-column width="50%" padding="0 20px" align="center">
+  <mj-text  mj-class="text">
+  <ul>
+    <li> <a href="#"> 8 links to the previous month’s Newsletter articles, recent blog posts, recent podcast episodes and recent webinars </a></li>
+    <li> <a href="#" >  recent webinars </a></li>   
+    <li> <a href="#">  Newsletter articles </a></li>   
+    <li> <a href="#"> 8 links </a></li></ul>
+  </mj-text>
+</mj-column>
+
+</mj-column>
+  <mj-column width="50%" padding="0 20px" align="center">
+  <mj-text  mj-class="text">
+  <ul>
+    <li> <a href=""> 8 links to the previous month’s Newsletter articles, recent blog posts, recent podcast episodes and recent webinars </a></li>
+    <li> <a href="#" >  recent webinars </a></li>   
+    <li> <a href="#">  Newsletter articles </a></li>   
+    <li> <a href="#"> 8 links </a></li></ul>
+  </mj-text>
+</mj-column>

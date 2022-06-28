@@ -1,0 +1,19 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-include path="./components/header.mjml" />
+    <mj-section mj-class="general-section">
+      <mj-column mj-class="general-column" css-class="pardot_repeatable">
+        <mj-text css-class="pardot_simple" mj-class="h1">IvyWise Can Help You Achieve Your Higher Ed Goals!</mj-text>
+        <mj-text css-class="pardot_basic" mj-class="parag-1"> At IvyWise, we know that the summer break is a crucial college prep time, and spending it wisely by getting a head start on your college applications can help to mitigate stress once senior year starts. We also realize that the college admissions process can be very challenging for students to navigate, so, our counselors are here to help you finalize your balanced college list, create your application strategy and craft essays that will ensure you stand out to admissions committees in the fall.</mj-text>
+        <mj-text css-class="pardot_basic" mj-class="parag-1"> IvyWise counselors come from some of the top institutions in the world, including Yale, Princeton, Columbia, Stanford and MIT, to name just a few, and each has evaluated thousands of applications and sat in committee. So, they know how the college admissions process works and what universities are looking for. IvyWise offers a wide range of options for seniors, tailored to each student's individual needs and goals. Contact us today to learn more about how our team can help you achieve your higher ed goals. </mj-text>
+        <mj-button css-class="pardot_link" mj-class="button" target="_blank" href='https://www.ivywise.com/get-started/'>LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>

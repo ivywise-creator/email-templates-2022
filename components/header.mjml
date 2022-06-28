@@ -1,0 +1,14 @@
+<mj-section mj-class="head l-blue">
+  	<mj-group>
+    <mj-column width="50%" vertical-align="bottom" >
+        <mj-image css-class="pardotImage" css-class="pardot_image" src="https://aspire.ivywise.com/l/923623/2022-05-12/hg622/923623/1652351154RmD9294R/2022_ivywise_logo.png" align="left" width="150px" href="http://www.ivywise.com/"/> 
+    </mj-column>
+
+    <mj-column width="50%" vertical-align="bottom" >
+        <mj-image css-class="pardotImage" css-class="pardot_image" src="https://aspire.ivywise.com/l/923623/2022-05-12/hg6b2/923623/16523512394z92FmDT/2022_ivywise_top_leaf.png" width="150px" align="right" href="http://www.ivywise.com/"/>
+    </mj-column>
+	</mj-group>
+  <mj-column width="100%"> 
+    <mj-divider border-width="2px" border-style="solid" border-color="#56AD33"/>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./components/style.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-include path="./components/header.mjml" />
+    <mj-section mj-class="general-section" padding-bottom="0px">
+      <mj-column mj-class="general-column" padding="0px">
+        <mj-text mj-class="h1" padding="20px">Was it something we said? 
+        </mj-text> 
+        <mj-text css-class="pardot_basic" mj-class="parag-1" padding-bottom="0px"> <p>We've noticed it's been a while since you've opened our emails. You initially subscribed to our emails because you wanted to be informed of the <a href="https://www.ivywise.com/ivywise-knowledgebase/"> latest college admissions news and advice</a> and of our <a href="https://www.ivywise.com/admissions-counseling/">counseling</a>, <a href="https://www.ivywise.com/tutoring/">tutoring</a>, and <a href="https://www.ivywise.com/research/">research</a> services – and it remains our mission to provide you with <a href="https: //www.ivywise.com/blog/">informative and relevant content</a>. </p>
+        <p>However, we don't want to add to your inbox clutter if you'd rather not hear from us anymore, so we're reaching out to you now for a decision on how you would like to proceed: </p></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="general-section" padding-top="0px">
+      <mj-column width="30%" vertical-align="middle" >
+        <mj-button css-class="pardot_link" mj-class="btn2" background-color="#56AD33" href="https://www.ivywise.com/reply/accepted/">ACCEPTED </mj-button>
+      </mj-column>
+      <mj-column width="70%" vertical-align="middle" padding="20px">
+        <mj-text css-class="pardot_basic" mj-class="text"> Great choice! You'll continue to receive the latest admissions news and advice – and have access to <a  href="https://www.ivywise.com/ivywise-knowledgebase/free-downloads/">our downloadable resources</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-button css-class="pardot_link" mj-class="btn2" background-color="#F9AF00" href="https://aspire.ivywise.com/subscription-preferences?epc_hash=BM9zOFQFtPjTzk16lKnnCv9zMY-b7wbBUtuq_emA3UA">WAITLISTED </mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" width="70%" padding="20px">
+        <mj-text css-class="pardot_basic" mj-class="text"> To update your email preferences,<a style="color:#56AD33; text-decoration:underline;" href="https://aspire.ivywise.com/subscription-preferences?epc_hash=BM9zOFQFtPjTzk16lKnnCv9zMY-b7wbBUtuq_emA3UA"> please click here</a>. </mj-text>
+      </mj-column>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-button css-class="pardot_link" mj-class="btn2"  background-color="red" href="https://aspire.ivywise.com/unsubscribeConfirm/923623">DENIED </mj-button>
+      </mj-column>
+      <mj-column width="70%" vertical-align="middle" padding="20px">
+        <mj-text css-class="pardot_basic" mj-class="text"> If you no longer want to receive emails from us, <a href="https://aspire.ivywise.com/unsubscribeConfirm/923623"> please click here</a>. We'll be sad to see you go! </mj-text>
+      </mj-column>
+      <mj-column mj-class="general-column">
+              <mj-spacer height="20px" />
+        <mj-text mj-class="parag-1" align="center">Thank you for taking the time to submit your response! </br>
+        </mj-text>
+        <mj-button css-class="pardot_link" mj-class="button" href="https://www.ivywise.com/">LEARN MORE ABOUT IVYWISE</mj-button>
+      </mj-column>
+    </mj-section>
+     
+    <mj-include path="./components/social.mjml" />
+    <mj-include path="./components/footer.mjml" />
+    <mj-include path="./components/finalNote.mjml" />
+
+  </mj-body>
+</mjml>

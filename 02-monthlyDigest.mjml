@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+
+    <mj-include path="./components/style.mjml" />
+      <mj-style>
+        @media only screen and (max-width: 500px) {
+         .notimg {
+           display: none;
+          }	
+         }
+      </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-include path="./components/header.mjml" />
+     <mj-hero  mode="fluid-height"
+      background-width="600px"
+      background-height="120px"
+      background-url="https://aspire.ivywise.com/l/923623/2022-06-01/k28pp/923623/1654085615KsnJkIWC/header1.jpg"
+      background-color="#E6F1F9" 
+      padding="240px 20px 0px 20px">
+      <mj-raw> 
+        <div style="background-color:#F9AF00;padding: 10px;display: block;"> 
+        
+        <h1 style="text-align: center;padding: 10px; font-weight:bold;color: #FFFFFF; font-size:30px; line-height:40px;display: block;padding: 0;margin: 0; font-family: Poppins, Helvetica, sans-serif;">IvyWise Monthly Digest </h1> </div>
+      </mj-raw>
+     </mj-hero>
+      
+ 			<mj-include path="./components/up_webinar.mjml" />
+      <mj-include path="./components/listenPodcast.mjml" />
+      <mj-include path="./components/recentMedia.mjml" />  
+      
+      <mj-include path="./components/social.mjml" /> 
+      <mj-include path="./components/footer.mjml" />
+      <mj-include path="./components/finalNote.mjml" />
+  </mj-body>
+</mjml>
